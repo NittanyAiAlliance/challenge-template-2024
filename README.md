@@ -1,4 +1,4 @@
-# AdvanceRepo
+# ChallengeRepo
 Template for new Challenge Projects
 
 Includes:
