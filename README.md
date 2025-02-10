@@ -1,5 +1,5 @@
 # AdvanceRepo
-Template for new Advance Projects
+Template for new Challenge Projects
 
 Includes:
 - Pull Request Template
