@@ -1,4 +1,4 @@
-# ChallengeRepo
+# Nittany Ai Challenge Repository Template
 Template for new Challenge Projects
 
 Includes:
